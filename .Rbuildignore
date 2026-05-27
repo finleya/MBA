@@ -8,6 +8,7 @@
 ^pkgdown$
 ^public$
 ^README\.Rmd$
+^index\.md$
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^\.git$
