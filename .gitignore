@@ -1,0 +1,15 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rcheck/
+*.tar.gz
+docs/
+pkgdown/
+public/
+src/*.o
+src/*.so
+src/*.dll
+src/*.dylib
+src/symbols.rds
+Rplots.pdf

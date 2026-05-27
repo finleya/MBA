@@ -1,0 +1,18 @@
+url: https://finleya.github.io/MBA/
+
+template:
+  bootstrap: 5
+
+navbar:
+  structure:
+    left: [intro, reference, articles, news]
+    right: [search, github]
+
+reference:
+  - title: Multilevel B-spline approximation
+    contents:
+      - mba.surf
+      - mba.points
+  - title: Data
+    contents:
+      - LIDAR

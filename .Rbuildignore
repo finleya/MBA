@@ -1,0 +1,16 @@
+^\.github$
+^\.gitignore$
+^_pkgdown\.yml$
+^cran-comments\.md$
+^tools$
+^dev$
+^docs$
+^pkgdown$
+^public$
+^README\.Rmd$
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.git$
+^src/.*\.(o|so|dll|dylib)$
+^src/symbols\.rds$
+^Rplots\.pdf$
