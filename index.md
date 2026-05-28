@@ -4,10 +4,14 @@
 [![R-CMD-check](https://github.com/finleya/MBA/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/finleya/MBA/actions/workflows/R-CMD-check.yaml)
 [![pkgdown](https://github.com/finleya/MBA/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/finleya/MBA/actions/workflows/pkgdown.yaml)
 
+<img src="logo.png" alt="MBA package hex logo" align="left" width="130" style="margin: 0 1.2rem 0.6rem 0;">
+
 `MBA` interpolates irregularly and regularly spaced data using
 multilevel B-spline approximation. The package provides functions for
 estimating smooth surfaces on a regular grid and for predicting surface
 values at arbitrary point locations.
+
+<br clear="left"/>
 
 ## Installation
 
